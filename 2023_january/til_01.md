@@ -1,5 +1,3 @@
-# til_01
-
 ---
 
 🍎 현재 위치를 기반으로 내 주변 가까운 수영장 위치를 찾아 보여주는 애플리케이션 개발을 진행합니다.
@@ -28,7 +26,7 @@
 - Java Library Open Source인 Proj4j를 통해 변경할 수 있습니다.
 - 하지만 좌표는 소숫점까지 계산되기 때문에 데이터 정합성을 맞추기 어려웠습니다.
 
-![좌표_데이터_불일치_이미지](2023_january/image/LocationDataMismatchImage.png)
+![좌표_데이터_불일치_이미지](2023_january/image/LocationDataMismatchImage.png)(image/LocationDataMismatchImage.png)
 
 ---
 
