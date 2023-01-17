@@ -5,6 +5,7 @@
 → Json Data 타입 변환에 시간이 많이 소요됐습니다. TestCode 작성 시 org.json Library를 사용해 테스트를 마치고 프로덕트 코드에서 org.json을 지원하지 않아 해결 방법을 찾느라 시간이 걸렸습니다.
 → 따로 의존성을 추가해서 Json 타입 데이터를 핸들링해야하나 생각을 했지만 이미 spring framework안에 존재하는 jackson objectMapper를 통해 해결할 수 있었습니다.
 → Json 데이터를 다룰 때 list, reference type을 사용해야 하는 경우를 알게 되었고 모든 폼을 맞춰서 데이터를 파싱하지 않는 설정도 있다는 것을 알았습니다.
+→ mysql을 도입하게되어 툴을 이해하고자 real mysql을 읽기 시작했습니다.
 
 🍎 새로 알게된 사실 혹은 알고 있던 사실에대한 질문, 답변
 
