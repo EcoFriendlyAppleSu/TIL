@@ -8,3 +8,5 @@
 - [TIL_05_Hard, Soft Delete and etc..](2023_january/til_05.md)
 - [TIL_06_외부 API 호출](2023_january/til_06.md)
 - [TIL_07_SwimmingPool Entity Change and Real Mysql](2023_january/til_07.md)
+- [TIL_08_InnoDB Infra](2023_january/til_08.md)
+- [TIL_09_Blocking and Non-Blocking](2023_january/til_09.md)
