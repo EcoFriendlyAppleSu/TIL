@@ -12,3 +12,6 @@
 - [TIL_09_Blocking and Non-Blocking](2023_january/til_09.md)
 - [TIL_10_About HTTP](2023_january/til_10.md)
 - [TIL_11_TestCode](2023_january/til_11.md)
+- [TIL_12_Base64 Encoding](2023_january/til_12.md)
+- [TIL_13_Mysql Geometry type Point](2023_january/til_13.md)
+- [TIL_14_Mybatis DTO](2023_january/til_14.md)
