@@ -1,5 +1,6 @@
 
 ---
+
 🍎 새로 알게된 사실 혹은 알고 있던 사실에대한 질문, 답변
 
 🍏 Mybatis의 xml 파일에서는 부등호를 **TAG**로 인식하기 때문에 "The content of elements must consist of well-formed character data or markup" 예외가 발생합니다.
@@ -21,3 +22,4 @@
 ❓ 사전을 정렬하기 위해 Trie 자료구조가 최고의 선택인가요?
 → 아닙니다. Trie 자료구조 이외에도 Hash table, radix tree 등 다양한 자료구조를 사용하는 것이 좋은 효율을 낼 수도 있습니다.
 → 예를 들어, 저장할 문자열의 수, 저장할 문자열의 길이, 자주 사용하는 문자열을 빈도 등을 활용하면 비단 Trie 자료구조를 사용하지 않아도 효율적으로 사전 작업을 처리할 수 있습니다.
+![TrieTree](image/trieTreeImage.gif)
