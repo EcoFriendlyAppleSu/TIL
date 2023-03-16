@@ -5,6 +5,8 @@
 - [TIL_02_REACT는_One_Way_입니다.](2023_march/til_02.md)
 - [TIL_03_REACT의 불변성.](2023_march/til_03.md)
 - [TIL_04_Cloud_DB를_사용해도_DDL_형상관리가_필요한_이유.](2023_march/til_04.md)
+- [TIL_05_AST_와_SPA의_관계](2023_march/til_05.md)
+- [TIL_06_pymysqlInterfaceError_발생_원인과_해결](2023_march/til_06.md)
 
 2023_February
 - [TIL_01_Mybatis Concept](2023_february/til_01.md)
