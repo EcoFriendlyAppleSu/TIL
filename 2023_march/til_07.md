@@ -88,6 +88,8 @@ Scrapy에서는 다음과 같은 middleware를 제공합니다.
 
 → spiders 디렉토리는 Scrapy에서 스크래퍼가 추출할 데이터를 정의하는 가장 중요한 디렉토리 중 하나입니다. spiders 디렉토리에는 웹 사이트마다 하나 이상의 Spider 클래스를 작성하여 스크래핑을 수행합니다. 따라서, spiders 디렉토리는 Scrapy 스크래퍼 개발에서 매우 중요한 역할을 합니다.
 
+❗ Scrapy 외부에서 spider를 호출했을 경우 Scrapy 프로젝트 설정 파일(Setting.py)에 지정된 설정 값들이 자동으로 로드되지 않기 때문에, 이에 따라 Scrapy 프로젝트에서 설정된 Pipelines도 로드되지 않을 수 있습니다.
+
 📚 Reference
 
 [Scrapy Cluster Repo](https://github.com/istresearch/scrapy-cluster)
