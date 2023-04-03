@@ -53,4 +53,3 @@ if __name__ == '__main__':
 
 → 위 예제에선 square 함수를 apply_async 메서드를 사용하여 호출하고, 반환된 AsyncResult 객체에서 결과를 얻어 출력합니다. 최종적으로, Pool 객체를 종료합니다.
 
-
